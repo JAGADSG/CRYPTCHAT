@@ -1,9 +1,15 @@
 @charset "utf-8";
 
-img {
-  float: left;
+img{
   width: 7%;
-  height: 7%;
+  height: 9%;
+}
+.logo-l {
+  float: left;
+  }
+
+.logo-r {
+  float: right;
 }
 
 .header {
