@@ -2,8 +2,8 @@
 
 img {
   float: left;
-  width: 7%;
-  height: 7%;
+  width: 5%;
+  height: 5%;
 }
 
 .header {
@@ -22,7 +22,7 @@ html, body{
 	color: white;
     height: 100%;
     font-size: larger;
-} 
+}
 h1{
     text-align: ;
     font-size: 40px;
