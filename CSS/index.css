@@ -4,9 +4,10 @@ img{
   width: 7%;
   height: 9%;
 }
+
 .logo-l {
   float: left;
-  }
+}
 
 .logo-r {
   float: right;
@@ -22,7 +23,7 @@ img{
 }
 
 html, body{
-	margin : auto;
+  margin : auto;
 	text-align: center;
 	background: #333;
 	color: white;
