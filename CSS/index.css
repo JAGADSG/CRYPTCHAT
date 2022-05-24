@@ -2,8 +2,8 @@
 
 img {
   float: left;
-  width: 5%;
-  height: 5%;
+  width: 7%;
+  height: 7%;
 }
 
 .header {
@@ -20,14 +20,14 @@ html, body{
 	text-align: center;
 	background: #333;
 	color: white;
-    height: 100%;
+  height: 100%;
     font-size: larger;
 }
 h1{
-    text-align: ;
-    font-size: 40px;
-    font-family: monospace;
-    color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family: monospace;
+  color: white;
 
 }
 h2{
@@ -50,35 +50,35 @@ ul.topnav {
 	background-color: purple;
   }
   
-  ul.topnav li {
+ul.topnav li {
     float: left;
-  }
+}
   
-  ul.topnav li a {
+ul.topnav li a {
 	  display: block;
 	  color: white;
 	  text-align: center;
 	  padding: 14px 16px;
 	  text-decoration: none;
       font-family: Courier New, monospace;
-  }
+}
   
-  ul.topnav li a:hover:not(.active) {
+ul.topnav li a:hover:not(.active) {
     background-color: #333;
-  }
+}
   
-  ul.topnav li a.active {
+ul.topnav li a.active {
     background-color: #333;
-  }
+}
   
-  ul.topnav li.right {
+ul.topnav li.right {
     float: right;
-  }
+}
   
-  @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
 	  ul.topnav li.right, 
 	  ul.topnav li {float: none;}
-  }
+}
 
 footer{
    position: fixed;
